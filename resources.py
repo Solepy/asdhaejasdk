@@ -56,12 +56,9 @@ class QueryResults:
 class Keyboards:
     def info_keyboard(self):
         return types.InlineKeyboardMarkup(inline_keyboard=
-             [[types.InlineKeyboardButton('🇺🇸 English',    url='https://telegra.ph/Come-si-usa-ppvtbot-01-29'),
-               types.InlineKeyboardButton('🇵🇱 Polski',     url='https://telegra.ph/Come-si-usa-ppvtbot-01-29')],
-              [types.InlineKeyboardButton('🇷🇺 Русский',    url='https://telegra.ph/Come-si-usa-ppvtbot-01-29'),
-               types.InlineKeyboardButton('🇺🇦 Українська', url='https://telegra.ph/Come-si-usa-ppvtbot-01-29')],
-              [types.InlineKeyboardButton('🇮🇹 Italiano',   url='https://telegra.ph/Come-si-usa-ppvtbot-01-29'),
-               types.InlineKeyboardButton('🇨🇿 Čeština',    url='https://telegra.ph/Come-si-usa-ppvtbot-01-29')]])
+             [[types.InlineKeyboardButton('🇮🇹 Italiano',   url='https://telegra.ph/Come-si-usa-ppvtbot-01-29')
+              
+               ]])
 
 class Media:
     def group_greeting_sticker_id(self):
