@@ -20,7 +20,7 @@ inline_query_regex = re.compile(r'^.+([ \n](@\w+|id[0-9]+))+$')
 scope_regex = re.compile(r'([ \n](@\w+|id[0-9]+))+$')
 
 ignored_chat_ids = set()
-bot = Bot(token = os.environ['5178858928:AAFONSDspUs0WMZsUowmwKFYpA-GhMeLrHQ'])
+bot = Bot(token = os.environ['BOT_TOKEN'])
 dp = Dispatcher(bot)
 
 def ignore(chat_id, timeout):
