@@ -46,9 +46,9 @@ locale_it.group_greeting_message = (
 
 # INFO_MESSAGE
 locale_it.info_message = (
-         'Se hai domande puoi contattare\n\n'
+         'Se hai domande puoi contattarmi!'💬 \n\n'
         
-         'Supporto: @orfeo')
+         'Contact: @orfeo')
 
 # HOW_TO_USE
 locale_it.how_to_use = 'Come usare questo bot?'
