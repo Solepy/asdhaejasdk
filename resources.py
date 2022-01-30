@@ -66,4 +66,4 @@ class Resources:
     def __init__(self, locales: LocalesDict):
         self.query_results = QueryResults(locales)
         self.keyboards = Keyboards()
-        self.media = Media()
+        
