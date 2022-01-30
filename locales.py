@@ -46,7 +46,7 @@ locale_it.group_greeting_message = (
 
 # INFO_MESSAGE
 locale_it.info_message = (
-         'Se hai domande puoi contattarmi!'💬 \n\n'
+         'Se hai domande puoi contattarmi! 💬' \n\n'
         
          'Contact: @orfeo')
 
