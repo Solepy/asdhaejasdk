@@ -46,7 +46,7 @@ locale_it.group_greeting_message = (
 
 # INFO_MESSAGE
 locale_it.info_message = (
-        'Ciao! 🇮🇹\n\n**@ppvtbot ti permette di inviare messaggi segreti nei gruppi, che solo il destinatario da te selezionato potrà visualizzare!** ⚙️\n\nI messaggi che invierai non saranno accessibili a nessun altro. Solo chi lo ha scritto e il destinatario potranno visualizzarli. Ci tengo a specificare che il creatore del bot non ha accesso a codesti messaggi, e non ha dunque la possibilità di leggerli. 🔏\n\nInoltre il bot offre altre due opzioni, una per gli spoiler, ed una per mandare un messaggio che sarà leggibile da tutti tranne che da una persona, sarai tu a decidere chi. 💬\n\nIl bot è ancora in fase di sviluppo, per qualsiasi problema puoi contattarmi. ⌨️\n\nContact: @orfeo')
+        'Ciao! 🇮🇹\n\n@ppvtbot ti permette di inviare messaggi segreti nei gruppi, che solo il destinatario da te selezionato potrà visualizzare! ⚙️\n\nI messaggi che invierai non saranno accessibili a nessun altro. Solo chi lo ha scritto e il destinatario potranno visualizzarli. Ci tengo a specificare che il creatore del bot non ha accesso a codesti messaggi, e non ha dunque la possibilità di leggerli. 🔏\n\nInoltre il bot offre altre due opzioni, una per gli spoiler, ed una per mandare un messaggio che sarà leggibile da tutti tranne che da una persona, sarai tu a decidere chi. 💬\n\nIl bot è ancora in fase di sviluppo, per qualsiasi problema puoi contattarmi. ⌨️\n\nContact: @orfeo')
 
 # HOW_TO_USE
 locale_it.how_to_use = 'Come usare questo bot?'
