@@ -13,7 +13,7 @@ from models import User, Post, PostMode
 from resources import Resources
 from utils import get_formatted_username_or_id
 
-logger.add(os.environ['LOG_PATH'])
+logger.add(os.environ['Logs/session.log'])
 rsc = Resources(locales)
 
 inline_query_regex = re.compile(r'^.+([ \n](@\w+|id[0-9]+))+$')
