@@ -57,6 +57,7 @@ class Keyboards:
     def info_keyboard(self):
         return types.InlineKeyboardMarkup(inline_keyboard=
              [[types.InlineKeyboardButton('🇮🇹 Italiano',   url='https://telegra.ph/Come-si-usa-ppvtbot-01-29')
+             (types.InlineKeyboardButton('🇬🇧 English',   url='https://telegra.ph/How-to-use-ppvtbot-01-30' ))  
               
                ]])
 
