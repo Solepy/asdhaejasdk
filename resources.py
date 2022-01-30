@@ -51,7 +51,7 @@ class QueryResults:
             input_message_content = message_content,
             reply_markup = keyboard,
             description = body,
-            thumb_url = 'https://imgur.com/yvXff6y.png')
+            thumb_url = 'https://i.postimg.cc/kXdYZNF9/Iq3crJ1.png')
 
 class Keyboards:
     def info_keyboard(self):
