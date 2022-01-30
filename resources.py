@@ -27,7 +27,7 @@ class QueryResults:
             input_message_content = message_content,
             reply_markup = keyboard,
             description = body,
-            thumb_url = 'https://i.imgur.com/hHIkDSu.png')
+            thumb_url = 'https://imgur.com/a/LY1Ne8b')
 
     def mode_except(self, lang: str, post_id, body, scope_string):
         keyboard = types.InlineKeyboardMarkup(inline_keyboard =
@@ -39,7 +39,7 @@ class QueryResults:
             input_message_content = message_content,
             reply_markup = keyboard,
             description = body,
-            thumb_url = 'https://i.imgur.com/S6OZMHd.png')
+            thumb_url = 'https://imgur.com/a/tbqwVlc')
 
     def mode_spoiler(self, lang: str, post_id, body):
         keyboard = types.InlineKeyboardMarkup(inline_keyboard =
@@ -51,7 +51,7 @@ class QueryResults:
             input_message_content = message_content,
             reply_markup = keyboard,
             description = body,
-            thumb_url = 'https://i.imgur.com/mS2ir0T.png')
+            thumb_url = 'https://imgur.com/a/zfaFFFT')
 
 class Keyboards:
     def info_keyboard(self):
