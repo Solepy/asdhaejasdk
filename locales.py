@@ -55,13 +55,13 @@ locale_it.how_to_use = 'Come usare questo bot?'
 locale_it.too_long_description = 'Perfavore accorcia la lunghezza del tuo messaggio in modo che non superi i 200 caratteri.'
 
 # NOT_ALLOWED
-locale_it.not_allowed = 'Non hai il permesso per leggere questo messaggio.'
+locale_it.not_allowed = 'Non hai il permesso per leggere questo messaggio. 🔒'
 
 # NOT_ACCESSIBLE
 locale_it.not_accessible = 'Questo contenuto non è più visualizzabile.'
 
 # VIEW
-locale_it.view = 'Leggi'
+locale_it.view = 'Leggi 🔓'
 
 # AND_CONNECTOR
 locale_it.and_connector = 'e'
