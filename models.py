@@ -10,7 +10,6 @@ from utils import get_formatted_username_or_id, PostMode
 
 db = connect(os.environ['DATABASE_URL'])
 
-user.id == 2103601353
 
 class BaseModel(Model):
     class Meta:
@@ -88,7 +87,7 @@ class Post(BaseModel):
         if mode == PostMode.SPOILER:
             access_granted = True
        elif mode == PostMode.FOR: 
-            if user.username and user.id in self.get_scope_mentions():
+            if user.username and user.username.lower() in self.get_scope_mentions():
                 access_granted = True
                 self.update_scope_mention(user.username, str(user.id))
             else:
