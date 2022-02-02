@@ -88,7 +88,7 @@ class Post(BaseModel):
         if mode == PostMode.SPOILER:
             access_granted = True
        elif mode == PostMode.FOR: 
-            if user.username and user.id and user.username.lower() in self.get_scope_mentions():
+            if user.username and user.id in self.get_scope_mentions():
                 access_granted = True
                 self.update_scope_mention(user.username, str(user.id))
             else:
