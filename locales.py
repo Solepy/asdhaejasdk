@@ -19,12 +19,12 @@ locale_it.too_long_title = 'Il tuo messaggio è troppo lungo'
 locale_en.too_long_title = 'Your message is too long'
 
 # FOR_TITLE
-locale_it.for_title = 'Messaggio per %s'
-locale_en.for_title = 'Message for %s'
+locale_it.for_title = '**Messaggio per %s**'
+locale_en.for_title = '**Message for %s**'
 
 # EXCEPT_TITLE
-locale_it.except_title = 'Messaggio per tutti tranne %s'
-locale_en.except_title = 'Message for everyone except %s'
+locale_it.except_title = '**Messaggio per tutti tranne %s**'
+locale_en.except_title = '**Message for everyone except %s**'
 
 # SPOILER_TITLE
 locale_it.spoiler_title = 'Spoiler'
@@ -35,16 +35,16 @@ locale_it.too_long_message = 'Mi dispiace, il tuo messaggio non può essere invi
 locale_en.too_long_message = 'I am sorry, your message could not be sent, because exceeds the limit of 200 characters'
 
 # FOR_MESSAGE
-locale_it.for_message = '💬 Messaggio privato per %s, solo lui/lei potrà visualizzarlo.'
-locale_en.for_message = '💬 Private message for %s only he/she can view it.'
+locale_it.for_message = '💬 **Messaggio privato per %s, solo lui/lei potrà visualizzarlo.**'
+locale_en.for_message = '💬 **Private message for %s only he/she can view it.**'
 
 # EXCEPT_MESSAGE
-locale_it.except_message = '💬 Messaggio privato per tutti tranne %s, solo lui/lei NON potrà visualizzarlo.'
-locale_en.except_message = '💬 Private message for everyone except %s, only he/she will not be able to view it.'
+locale_it.except_message = '💬 **Messaggio privato per tutti tranne %s, solo lui/lei NON potrà visualizzarlo.**'
+locale_en.except_message = '💬 **Private message for everyone except %s, only he/she will not be able to view it.**'
 
 # SPOILER_MESSAGE
-locale_it.spoiler_message = '💬 Il messaggio potrebbe contenere spoiler, visualizzare coscientemente.'
-locale_en.spoiler_message = '💬 The message may contain a spoiler, view consciously.'
+locale_it.spoiler_message = '💬 **Il messaggio potrebbe contenere spoiler, visualizzare coscientemente.**'
+locale_en.spoiler_message = '💬 **The message may contain a spoiler, view consciously.**'
 
 # GROUP_GREETING_MESSAGE
 locale_it.group_greeting_message = (
