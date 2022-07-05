@@ -35,28 +35,28 @@ locale_it.too_long_message = 'Mi dispiace, il tuo messaggio non può essere invi
 locale_en.too_long_message = 'I am sorry, your message could not be sent, because exceeds the limit of 200 characters'
 
 # FOR_MESSAGE
-locale_it.for_message = '💬 Messaggio privato per %s, solo lui/lei potrà visualizzarlo.'
-locale_en.for_message = '💬 Private message for %s only he/she can view it.'
+locale_it.for_message = '💬 Messaggio privato per %s, solo lui/lei potrà visualizzarlo. Fatte i cazzi tua.'
+locale_en.for_message = '💬 Private message for %s only he/she can view it. Get a life.'
 
 # EXCEPT_MESSAGE
 locale_it.except_message = '💬 Messaggio privato per tutti tranne %s, solo lui/lei NON potrà visualizzarlo.'
 locale_en.except_message = '💬 Private message for everyone except %s, only he/she will not be able to view it.'
 
 # SPOILER_MESSAGE
-locale_it.spoiler_message = '💬 Il messaggio potrebbe contenere spoiler, visualizzare coscientemente.'
-locale_en.spoiler_message = '💬 The message may contain a spoiler, view consciously.'
+locale_it.spoiler_message = '💬 Il messaggio potrebbe contenere spoiler, visualizzare coscientemente. Frocio.'
+locale_en.spoiler_message = '💬 The message may contain a spoiler, view consciously. Faggot.'
 
 # GROUP_GREETING_MESSAGE
 locale_it.group_greeting_message = (
-        '👋 Ciao! Il mio nome è %s e posso aiutarti ad inviare messaggi privati che solo alcuni potranno visualizzare. '
+        '👋 Ciao! Il mio nome è %s e posso aiutarti ad inviare messaggi privati che solo alcuni potranno visualizzare.'
         'per sapere di più invia /start@%s e sentiti libero di chiedere aiuto'
-        '<a href="t.me/orfeo"> se hai domande.')
+        '<a href="t.me/tenente"> se hai domande.')
 
 # INFO_MESSAGE
 locale_it.info_message = (
-         'Ciao! 🇮🇹\n\n@ppvtbot ti permette di inviare messaggi segreti nei gruppi, che solo il destinatario da te selezionato potrà visualizzare! ⚙️\n\nI messaggi che invierai non saranno accessibili a nessun altro. Solo chi lo ha scritto e il destinatario potranno visualizzarli. Ci tengo a specificare che il creatore del bot non ha accesso a codesti messaggi, e non ha dunque la possibilità di leggerli. 🔏\n\nInoltre il bot offre altre due opzioni, una per gli spoiler, ed una per mandare un messaggio che sarà leggibile da tutti tranne che da una persona, sarai tu a decidere chi. 💬\n\nIl bot è ancora in fase di sviluppo. ⌨️')
+         'Ciao! 🇮🇹\n\n@ppvtbot ti permette di inviare messaggi segreti nei gruppi, che solo il destinatario da te selezionato potrà visualizzare! ⚙️\n\nI messaggi che invierai non saranno accessibili a nessun altro. Solo chi lo ha scritto e il destinatario potranno visualizzarli. Ci tengo a specificare che il creatore del bot non ha accesso a codesti messaggi, e non ha dunque la possibilità di leggerli. 🔏\n\nInoltre il bot offre altre due opzioni, una per gli spoiler, ed una per mandare un messaggio che sarà leggibile da tutti tranne che da una persona, sarai tu a decidere chi. 💬\n\nIl bot è ancora in fase di sviluppo. ⌨️\n\nOwner: @tenente')
 locale_en.info_message = (
-         'Hello! 🇬🇧\n\n@ppvtbot allows you to send secret messages in groups, wich only the recipient you select will be able to view! ⚙️\n\nThe messages you send will not be accessible to anyone else. Only those who wrote it and the recipient will be able to view them. I want to specify that the creator of the bot does not have access to these messages, and therefore does not have the possibility to read them. 🔏\n\nFurthermore the bot offers two other options, first one for spoilers, and second one sending a message that will be readeable by everyone except one person, you decide who. 💬\n\nThe bot is still under development. ⌨️ '
+         'Hello! 🇬🇧\n\n@ppvtbot allows you to send secret messages in groups, wich only the recipient you select will be able to view! ⚙️\n\nThe messages you send will not be accessible to anyone else. Only those who wrote it and the recipient will be able to view them. I want to specify that the creator of the bot does not have access to these messages, and therefore does not have the possibility to read them. 🔏\n\nFurthermore the bot offers two other options, first one for spoilers, and second one sending a message that will be readeable by everyone except one person, you decide who. 💬\n\nThe bot is still under development. ⌨️\n\nOwner: @tenente '
 )
 
 # HOW_TO_USE
@@ -68,7 +68,7 @@ locale_it.too_long_description = 'Perfavore accorcia la lunghezza del tuo messag
 locale_en.too_long_description = 'Please shorten the length of your message so that it does not exceed 200 characters.'
 
 # NOT_ALLOWED
-locale_it.not_allowed = 'Non hai il permesso per leggere questo messaggio. 🔐' 
+locale_it.not_allowed = 'Handicappato fatti i cazzi tuoi. 🔐' 
 locale_en.not_allowed = 'You do not have permission to read this message. 🔐'
 
 # NOT_ACCESSIBLE
